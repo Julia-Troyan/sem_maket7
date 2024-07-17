@@ -915,14 +915,9 @@ gap: 32px;
     display: flex;
     padding: 0px;
    }
-   .email-block h1 {
-  }
   .email-block p {
     font-size: 14px;
     margin-bottom: 22px;
-  }
-  .email-btn {
-  /* padding: 22px 17px 109px; */
   }
   .end {
     max-width: 375px;
